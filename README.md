@@ -1,6 +1,6 @@
 # ParMod
 ParMod is a parallel and modular framework for solving non-Markovian tasks. Our framework is shown as follows:
-![image](https://github.com/syemichel/ParMod/overview.png)
+![image](https://github.com/syemichel/Experience-Classification/blob/main/overview.png)
 
 ## Installation
 
