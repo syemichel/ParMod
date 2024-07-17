@@ -7,6 +7,7 @@ ParMod is a parallel and modular framework for solving non-Markovian tasks. Our 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install stablebaseline.
 
 ```bash
-pip install stable-baselines3==2.2.1
+pip install torch==2.2.2
+pip install stable-baselines3==2.3.2
 ```
-Download and install all toolkits in your environment.
+Download and replace all packages in your conda environment.
