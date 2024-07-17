@@ -9,5 +9,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install stableb
 ```bash
 pip install torch==2.2.2
 pip install stable-baselines3==2.3.2
+pip install pyrddlgym==1.3.0
 ```
 Download and replace all packages in your conda environment.
