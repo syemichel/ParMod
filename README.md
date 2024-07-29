@@ -11,5 +11,6 @@ pip install torch==2.2.2
 pip install numpy==1.26.4
 pip install stable-baselines3==2.3.2
 pip install pyrddlgym==1.3.0
+pip install ray==3.0.0
 ```
 Download and replace all packages in your conda environment.
